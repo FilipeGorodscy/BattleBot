@@ -16,7 +16,7 @@ In order to run the project you need to:
 - cd into the BattleBot folder
 - run \
   g++ BattleBot.cpp QuadMesh.cpp -o battleBot -framework OpenGL -framework GLUT \
-and \
+\ and \
   ./battleBot
 
 
