@@ -12,11 +12,11 @@ The project also implements an opponent which is not controlled by the user. It 
 
 In order to run the project you need to:
 
-1- Clone or download the repository from github
-2- cd into the BattleBot folder
-3- run 
-  g++ BattleBot.cpp QuadMesh.cpp -o battleBot -framework OpenGL -framework GLUT
-and
+- Clone or download the repository from github
+- cd into the BattleBot folder
+- run 
+  g++ BattleBot.cpp QuadMesh.cpp -o battleBot -framework OpenGL -framework GLUT \
+and \
   ./battleBot
 
 
