@@ -14,7 +14,7 @@ In order to run the project you need to:
 
 - Clone or download the repository from github
 - cd into the BattleBot folder
-- run 
+- run \
   g++ BattleBot.cpp QuadMesh.cpp -o battleBot -framework OpenGL -framework GLUT \
 and \
   ./battleBot
